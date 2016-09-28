@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TIGDemo</string>
+
+    <string name="login_welcome_message">Login to our awesome app</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="submit">Submit</string>
+    <string name="invalid_login">Invalid Username or Password</string>
+
+    <string name="dashboard_welcome_message">Hello %s!</string>
+
+</resources>
